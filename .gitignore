@@ -1,0 +1,11 @@
+# Editor/OS
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Docker
+*.log
+
+# Git
+*.orig
